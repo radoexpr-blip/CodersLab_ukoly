@@ -1,1 +1,1 @@
-Moniko, posílám cvičení 2
+Moniko, posílám prework soubor matplotlib s grafem a webscrap se selenium a beautifulsoup 
